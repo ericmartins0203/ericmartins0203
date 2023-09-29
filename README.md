@@ -4,9 +4,9 @@
   - 📫 How to reach me estevesmartinseric@gmail.com .
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/ericmartins0203">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmartins0203&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericmartins0203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!-- <div align="center">
   <a href="https://www.linkedin.com/in/ericestevesmartins">
