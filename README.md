@@ -1,7 +1,6 @@
-  - 👋 Hi, I’m @ericmartins0203
-  - 👀 I’m working as a full-stack developer.
-  - 💞️ I’m looking to collaborate on everything i could.
-  - 📫 How to reach me estevesmartinseric@gmail.com .
+Eric Martins — Frontend / Full Stack Engineer
+React • Next.js • TypeScript • Node.js • PostgreSQL • AWS
+Building scalable web applications, real-time interfaces and product-oriented experiences.
 
 ## Contacts:
 
