@@ -16,7 +16,7 @@ I work mainly on complex interfaces, real-time applications, API integrations, a
 
 ## Featured Projects
 
-### AI-Powered Content Generation Tools — Globoplay / Grupo Globo
+### AI-Powered Content Generation Tools 
 
 Frontend tools for editorial content and digital advertising asset generation, developed as part of a contracted project for Grupo Globo.
 
