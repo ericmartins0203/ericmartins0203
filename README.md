@@ -18,7 +18,7 @@ I work mainly on complex interfaces, real-time applications, API integrations, a
 
 ### AI-Powered Content Generation Tools 
 
-Frontend tools for editorial content and digital advertising asset generation, developed as part of a contracted project for one of Brazil's largest streaming platforms.
+Frontend tools for editorial content and digital advertising asset generation, developed as part of a contracted project for Globoplay (Grupo Globo), through Noize Graphics.
 
 **Tech:** Next.js 15, React, TypeScript, Canvas API, Gemini AI, Zod
 
