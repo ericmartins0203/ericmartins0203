@@ -48,19 +48,21 @@ Frontend application for monitoring and configuring gas station operational syst
 
 *Closed-source commercial project — repository unavailable due to client confidentiality.*
 
-### Nutrition SaaS *(in development)*
+### Nutri SaaS — practice management for nutritionists
 
-SaaS platform for independent nutrition professionals in Brazil, focused on meal planning, nutritional data management and client workflows.
+SaaS for independent nutritionists in Brazil, built solo: client records, meal plans from the TACO/TBCA food tables (~6,200 foods), recurring check-ins, a daily habit tracker and simple billing. MVP complete.
 
-**Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, Zod, Vitest
+**[Repository](https://github.com/ericmartins0203/nutri-saas)** · **[Live demo](https://nutri-saas-iota.vercel.app/login)** (one-click login, demo data resets daily)
+
+**Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, NextAuth, Tailwind CSS, Zod, Vitest, GitHub Actions
 
 **Highlights:**
 
-* Designed relational data models for nutritional and client data using Prisma and PostgreSQL
-* Built questionnaire, anamnesis and client onboarding workflows
-* Integrated Brazilian nutritional databases such as TACO and TBCA
-* Developed gamified check-ins and habit-tracking features
-* Structured features using specifications and technical documentation
+* Tenant isolation enforced at the data layer and covered by integration tests against a real PostgreSQL database, with CI on GitHub Actions
+* Meal plans with a draft/publish flow and versioning, so clients never see half-finished edits
+* Food search over ~6,200 foods with household measures and per-meal macro totals
+* Configurable anamnesis and check-in questionnaires, plus a mobile-first PWA for clients
+* Built spec-first: 16 specs and 4 ADRs
 
 ## Engineering Focus
 
